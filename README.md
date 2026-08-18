@@ -1,100 +1,110 @@
-E-Commerce Customer Purchase Behaviour AnalysisPr
+# E-Commerce Customer Purchase Behaviour Analysis
 
-oject OverviewThis 
+## Project Overview
 
-project analyzes customer purchase behaviour in an e-commerce dataset using Python. The main aim is to understand customer purchasing patterns, identify useful trends, and present the findings through statistical analysis and visualizations.Team 
+This project analyzes customer purchase behaviour in an e-commerce dataset using Python. The main aim is to understand customer purchasing patterns, identify useful trends, and present the findings through statistical analysis and visualizations.
 
-MembersS. No. U
+## Team Members
 
-niversity ID Name1 2420030708 ANAHITA BHALME
-2 2420030384 KARISHMA SUTHAR3 2420030575 BEJ
-AGAMA ANUPAMSupervisor: Garimidi Siva Sree M
-a'amAbstractThis project focuses on analyzin
-g e-commerce customer purchase behaviour usi
+| S. No. | University ID | Name            |
+| ------ | ------------- | --------------- |
+| 1      | 2420030708    | ANAHITA BHALME  |
+| 2      | 2420030384    | KARISHMA SUTHAR |
+| 3      | 2420030575    | BEJAGAMA ANUPAM |
 
-ng Python. The dataset is processed and 
+**Supervisor:** Garimidi Siva Sree Ma'am
 
-analyzed to
+## Abstract
 
- find patterns in customer purchases and understand factors related to customer behaviour. Python libraries such as Pandas and NumPy are used for data processing and analysis, while Matplotlib and Seaborn are used to create visualizations. The analysis helps in understanding customer trends and extracting useful information from the available data.Technologies UsedPythonPandasNumPyMatplotlibSeabornGoogle Colab / Jupyter NotebookProject ObjectivesAnalyze customer purchase d
+This project focuses on analyzing e-commerce customer purchase behaviour using Python. The dataset is processed and analyzed to find patterns in customer purchases and understand factors related to customer behaviour. Python libraries such as Pandas and NumPy are used for data processing and analysis, while Matplotlib and Seaborn are used to create visualizations. The analysis helps in understanding customer trends and extracting useful information from the available data.
 
-ata.Clean and prepro
+## Technologies Used
 
-cess the
- dataset
-.Identi
-fy important
- patterns
- in customer behaviour.Perform de
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Google Colab / Jupyter Notebook
 
-scriptive statistical
+## Project Objectives
 
- analysis.Create visualizations t
-o understand the data.Extract usefu
-l insights from customer purchase information.Setup 
-and Execution1. Clone the Repositorygit clo
-ne <repository-url>cd <repository-folder>2. Ins
-tall Required Librariespip install pandas numpy matplotlib se
+* Analyze customer purchase data.
+* Clean and preprocess the dataset.
+* Identify important patterns in customer behaviour.
+* Perform descriptive statistical analysis.
+* Create visualizations to understand the data.
+* Extract useful insights from customer purchase information.
 
-aborn3. Run the Projec
+## Setup and Execution
 
-tThe project can be execute
+### 1. Clone the Repository
 
-d using
- Google Colab or Jupyter N
-otebook.Open the proje
-ct 
+```bash
+git clone <repository-url>
+cd <repository-folder>
+```
 
-notebook and run the cells in ord
+### 2. Install Required Libraries
 
-er:E-co
-mmerce Customer Purchase Behaviour Analysis
-.ip
+```bash
+pip install pandas numpy matplotlib seaborn
+```
 
-ynbMake sure the datas
+### 3. Run the Project
 
-et is available at the required location before running the notebook.Curren
+The project can be executed using **Google Colab** or **Jupyter Notebook**.
 
-t Phase StatusPhase 1 – Data Analysis and Visualizati
+Open the project notebook and run the cells in order:
 
-onStatu
-s: CompletedThe current phase includes:Dataset collec
-tio
+```text
+E-commerce Customer Purchase Behaviour Analysis.ipynb
+```
 
-nData loadingData cleaning and preprocessingExploratory Data Analysis (EDA)Descriptive s
+Make sure the dataset is available at the required location before running the notebook.
 
-tatistical analysisData
+## Current Phase Status
 
- visualizationIdentification of customer purc
+### Phase 1 – Data Analysis and Visualization
 
-hase patternsInterpre
+**Status: Completed**
 
-tation of analysis resultsP
+The current phase includes:
 
-roject StructureE-Co
-mmerce-Custome
-r-Purchase-Behaviour/│├── dataset
-/│   └── dataset.csv│├── E-commer
-ce Customer Purchase Behaviour Ana
-lysis.ipynb│├── READ
-ME.md│└── requirements.txtExpected OutcomeThe 
-project aims to provide a clear unde
+* Dataset collection
+* Data loading
+* Data cleaning and preprocessing
+* Exploratory Data Analysis (EDA)
+* Descriptive statistical analysis
+* Data visualization
+* Identification of customer purchase patterns
+* Interpretation of analysis results
 
-rstanding of custome
+## Project Structure
 
-r purch
-ase behaviour through data analysis and
- 
-visualizatio
-n. The results can 
-h
-elp identify important trends and patterns in e-commerce 
-c
-ustomer data.
-S
-upervisorGarimidi Si
-va 
+```text
+E-Commerce-Customer-Purchase-Behaviour/
+│
+├── dataset/
+│   └── dataset.csv
+│
+├── E-commerce Customer Purchase Behaviour Analysis.ipynb
+│
+├── README.md
+│
+└── requirements.txt
+```
 
-Sree Ma'amTeamAnahi
+## Expected Outcome
 
-ta BhalmeKarishma SutharBejagama Anupam
+The project aims to provide a clear understanding of customer purchase behaviour through data analysis and visualization. The results can help identify important trends and patterns in e-commerce customer data.
+
+## Supervisor
+
+**Garimidi Siva Sree Ma'am**
+
+## Team
+
+**Anahita Bhalme**
+**Karishma Suthar**
+**Bejagama Anupam**
